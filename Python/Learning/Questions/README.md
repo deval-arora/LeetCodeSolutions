@@ -1,1 +1,1 @@
-Direcotry for important Python questions that require different approach to solve the problem. 
+Directory for important Python questions that require different approach to solve the problem. 
